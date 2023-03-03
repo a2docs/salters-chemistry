@@ -1,5 +1,4 @@
-* [Home](/)
+- [Home](/)
 
-Elements from the sea
-
- * [Redox](es/redox.md)
+- Elements from the sea
+  - [Redox](es/redox.md)
