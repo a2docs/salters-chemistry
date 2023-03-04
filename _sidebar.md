@@ -1,4 +1,6 @@
-- [Home](/)
-
 - Elements from the sea
   - [Redox](es/redox.md)
+  - [Halogens](es/halogens.md)
+  - [Hydrogen Halides](es/halogen-halides.md)
+  - [Equilibria](es/equilibria.md)
+  - [Atom economy](es/atom-economy.md)
