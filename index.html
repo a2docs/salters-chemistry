@@ -7,23 +7,29 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
+        const repo = 'https://github.com/a2docs/salters-chemistry',
         loadSidebar: true,
         subMaxLevel: 2,
         name: 'A-level Chemistry',
+        repo: repo,
         latex: {
           inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
           displayMath  : [['$$', '$$']],               // default
-        }
+        },
+        plugins: [
+          EditOnGitHubPlugin.create(repo + '/blob/master/docs/', null, '📝 Improve this page')
+        ],
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     
     <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
   </body>
 </html>
