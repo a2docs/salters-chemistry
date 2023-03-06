@@ -7,17 +7,20 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <style>
+      .clear-button {
+        margin-top: 0.55em
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
-      const repo = 'https://github.com/a2docs/salters-chemistry'
       window.$docsify = {
         loadSidebar: true,
         subMaxLevel: 2,
         auto2top: true,
         name: 'A-level Chemistry',
-        repo: repo,
         latex: {
           inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
           displayMath  : [['$$', '$$']],               // default
