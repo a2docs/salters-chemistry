@@ -1,4 +1,4 @@
-- Elements from the sea
+- **Elements from the sea**
   - [Redox](es/redox.md)
   - [Halogens](es/halogens.md)
   - [Hydrogen halides](es/hydrogen-halides.md)
