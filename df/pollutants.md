@@ -33,4 +33,22 @@ The atmospheric pollutants you need to know about include:
 |Nitrous oxides (NOx)|It is acidic and can cause acid rain; it contributes to the formation of photochemical smog.|
 |Sulfur oxides (SOx)|It is acidic and can cause acid rain.|
 
+Using catalysts to speed up reactions that involve pollutants is beneficial. The products of the following reactions are all naturally present in the air:
+
+1. Using oxygen to turn carbon monoxide to carbon dioxide.
+2. Using oxygen to turn hydrocarbons to carbon dioxide and water.
+3. Reacting nitrogen dioxide with carbon monoxide to form carbon dioxide and nitrogen.
+
+These reactions occur naturally, but they are too slow to remove the pollutants under the conditions inside an exhaust system.
+
 ## Alternative fuels
+
+The following are alternative fuels to petrol:
+
+|Alternative|Sustainable?|Benefits|Risks|
+|---|---|---|---|
+|Diesel|No|Less CO|More NOx and particulates.|
+|LPG|No|Less CO, CO2, NOx, hydrocarbons.|Needs to be stored under pressure to liquify.|
+|Ethanol|Yes, but energy is needed for its cultivation.|High octane number. Less CO, SOx, NOx.|Flammable and intoxicating.|
+|Biodiesel|Yes, from plants.|Plants absorb CO2. Biodegradable. Less CO, hydrocarbons, and particulates.|Higher NOx emissions.|
+|Hydrogen|Yes, if made with solar cells.|Water is the only product of its combustion.|Highly flammable. Needs to be stored under high pressure to liquify.|
