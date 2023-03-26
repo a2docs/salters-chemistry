@@ -6,3 +6,6 @@
   - [Hydrogen halides](es/hydrogen-halides.md)
   - [Equilibria](es/equilibria.md)
   - [Atom economy](es/atom-economy.md)
+- **The ozone story**
+  - [Bonding](oz/bonding.md)
+  - [Kinetics](oz/kinetics.md)
