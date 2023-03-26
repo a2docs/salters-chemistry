@@ -3,7 +3,7 @@
 
 ## Electronegativity
 
-A covalent bond is a shared pair of electrons. However, these electrons are not shared evenly. Some atoms have have a stronger pull on them than others. That is to say, they are more electronegative.
+A covalent bond is a shared pair of electrons. However, these electrons are not shared evenly. Some atoms have a stronger pull on them than others. That is to say, they are more electronegative.
 
 > Electronegativity is the power of an atom to attract the bonding electrons in a covalent bond to itself.
 
