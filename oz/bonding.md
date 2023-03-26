@@ -42,7 +42,7 @@ This is a covalent bond, but it has some *ionic character*. This is because the 
 
 ### How polar is a bond?
 
-A covalent bond will be polar if the two bonded atoms are difference in electronegativity. The greater the difference, the more polar the bond.
+A covalent bond will be polar if the two bonded atoms are different in electronegativity. The greater the difference, the more polar the bond.
 
 ### Dipoles
 
