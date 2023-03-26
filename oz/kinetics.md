@@ -35,18 +35,19 @@ For particles to react they must collide with enough energy for bonds to start b
 
 ### Maxwell-Boltzmann distribution curves
 
-Maxwell-Boltzmann distribution curves can be used to explain the qualitative effects of temperature changes and catalysts on rate of reaction. Using a catalyst is shown on the left. Increasing temperature is shown on the right.
+Maxwell-Boltzmann distribution curves can be used to explain the qualitative effects of temperature changes and catalysts on rate of reaction. 
+
+Using a catalyst is shown on the left. Increasing temperature is shown on the right.
 
 <img src="https://i.imgur.com/4hXr0dQ.png" width="420px">
 
-When a catalyst is added, the activation energy of a reaction decreases. Therefore, the proportion of particles with at least this much energy increases (see shaded areas). When the temperature is increased, the proportion of particles with kinetic energies greater than the activation increases.
+When a catalyst is added, the activation enthalpy of a reaction decreases. Therefore, the proportion of particles with at least this much energy increases (see shaded areas). When the temperature is increased, the proportion of particles with kinetic energies greater than the activation enthalpy increases.
 
 ### Measuring rate of reaction
 
 Rate of reaction can be measured with various methods.
 
-* Graph of concentration plotted against time (gradient of a tangent shows the rate of reaction at a given time).
-
+* Graph of concentration plotted against time.
 * Measure temperature change (and plot this on a graph against time).
 * Take samples and titrate at regular intervals.
 * Measure mass lost or volume of gas given.
