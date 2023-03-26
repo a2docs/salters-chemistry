@@ -78,7 +78,7 @@ IDIDs exist between all molecules.
 PDPDs exist between two polar molecules.
 
 1. The partially positive part of one molecule is attracted to the partially negative part of another molecule.
-2. The parital charges cause weak electrostatic forces of attraction between the molecules.
+2. The partial charges cause weak electrostatic forces of attraction between the molecules.
 
 ### Hydrogen bonding
 
