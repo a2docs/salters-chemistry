@@ -58,3 +58,24 @@ To convert from % to ppm, multiply by 10,000.
 ### Principal radiations
 
 Different energy levels are affected by radiation of different regions of the electromagnetic spectrum.
+
+|Change occurring|Size of energy change / $J$|Type of radiation absorbed|
+|---|---|---|
+|Change of rotational energy level|$1\times10^{-22}$ to $1\times10^{-20}$|Microwave|
+|Change in vibrational energy level|$1\times10^{-20}$ to $1\times10^{-19}$|Infrared|
+|Change in electronic energy level|$1\times10^{-19}$ to $1\times10^{-16}$|Visible and ultraviolet|
+
+When a molecule absorbs ultraviolet radiation, one of three things can happen depending on the amount of energy involved:
+
+* Electrons may be excited to a higher energy level. Later the electrons fall back to a lower energy level and nothing permanent has happened.
+
+* If higher energy radiation is used then the molecule may absorb so much energy that the bonding electrons can no longer bond the atoms together. The two atoms in the molecule break apart and this is known as photodissociation because it is caused by light. As a result, radicals are formed.
+
+* With very high energy photons, the molecules may acquire so much energy that an electron is able to leave it - this is called ionisation.
+
+## Reactions
+
+With data, you can calculate for frequency, wavelength, and energy of electromagnetic radiation.
+
+* $\ce{E}=\ce{h\mathit{v}}$
+* $\ce{c}=\ce{λ\mathit{v}}$
