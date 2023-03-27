@@ -9,3 +9,5 @@
 - **The ozone story**
   - [Bonding](oz/bonding.md)
   - [Kinetics](oz/kinetics.md)
+  - [Atmosphere](oz/atmosphere.md)
+  - [Organic chemistry](oz/organic.md)
