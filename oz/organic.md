@@ -51,7 +51,7 @@ When haloalkanes react, the $\ce{C}-\ce{X}$ bond breaks. This can happen in two 
 
 The $\ce{C}-\ce{X}$ bond is polar. This is because halogen atoms are more electronegative than carbon atoms. The partial positive charge on the carbon attracts nucleophiles.
 
-> A nucleophile is a species with a lone pair of electrons. It dones the lone pair to a partially positive carbon to form a new covalent bond.
+> A nucleophile is a species with a lone pair of electrons. It donates the lone pair to a partially positive carbon to form a new covalent bond.
 
 Nucleophiles will themselves be negatively charged or have a partially negative atom with the lone pair. It forms a new bond to the partially positive carbon of the haloalkane. However, one of the current bonds has to break because carbons can only have four bonds.
 
@@ -102,7 +102,7 @@ Silver nitrate solution gives an immediate precipitate if added to a solution co
 
 We will see a precipitate appear after the haloalkane reacts with the nucleophile present by nucleophilic substitution. The idea is to add silver nitrate solution to different haloalkanes and time how long it takes for the precipitate to appear.
 
-A sample of each haloalkane is put in a test tube with some ethanol. All three test tubes are put in the same water bath until they reach 50 degrees Celsius. Then, the silver nitrate solution can be added to all three test tubes at the same time. The stopwatch should be started at this time and the length of time for the precipitate to appear in each tube should be measured.
+A sample of each haloalkane is put in a test tube with some ethanol. All three test tubes are put in the same water bath until they reach 50 degrees Celsius. Then, the silver nitrate solution can be added to all three test tubes at the same time. The stopwatch should be started at this time and the length of time for the precipitate to appear in each tube should be noted.
 
 |Position|Precipitate|Colour|
 |---|---|---|
