@@ -5,7 +5,7 @@
 
 Radicals are particles with an unpaired electron. Reactions involving radicals are often chain reactions and occur in three stages.
 
-In the dark there is no reaction. There is UV present in sunlight so there is an explosion. The mechanism is radical substitution.
+In the dark there is no reaction. However, there is UV present in sunlight so there is an explosion. The mechanism for this reaction is called radical substitution.
 
 Methane + chlorine can be used as an example. $\ce{CH_4}+\ce{Cl_2}→\ce{CH_{3}Cl}+\ce{HCl}$
 
@@ -30,7 +30,7 @@ $$\ce{CH_{3}}\bullet+\ce{Cl_2}→\ce{Cl}\bullet+\ce{CH_{3}Cl}$$
 These two propagation steps happen repeatedly to continue the chain reaction until termination.
 
 ### III. Termination
-*Radicals combine to produce no radicals*
+*Radicals combine to produce a stable molecule*
 
 If two radicals collide then they will react together. The activation enthalpy for a termination step is very low as no bonds need to be broken.
 
@@ -41,7 +41,7 @@ $$\ce{2CH_3}\bullet→\ce{C_{2}H_{6}}$$
 $$\ce{CH_3}\bullet+\ce{Cl}\bullet→\ce{CH_{3}Cl}$$
 
 ## Reactions of haloalkanes
-When haloalkanes reavt, the $\ce{C}-\ce{X}$ bond breaks. This can happen in two ways.
+When haloalkanes react, the $\ce{C}-\ce{X}$ bond breaks. This can happen in two ways.
 
 1. In the stratosphere, high energy UV from the sun breaks the bond by homolytic fission to give radicals.
     * $\ce{CH_{3}Cl}→\ce{CH_3}\bullet+\ce{Cl}\bullet$
