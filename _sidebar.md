@@ -11,3 +11,6 @@
   - [Kinetics](oz/kinetics.md)
   - [Atmosphere](oz/atmosphere.md)
   - [Organic chemistry](oz/organic.md)
+- **What's in a medicine?**
+  - [Organic chemistry](wm/organic.md)
+  - [Modern analytic techniques](wm/mat.md) 
